@@ -137,8 +137,7 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Objects\\Planet.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAqwA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:23:22.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:23:22.417Z"
             },
             {
               "$type": "Document",
@@ -150,8 +149,7 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Objects\\Moon.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:23:57.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:23:57.114Z"
             },
             {
               "$type": "Document",
@@ -175,8 +173,7 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Constants\\OutputString.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:16:22.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:16:22.695Z"
             },
             {
               "$type": "Document",
@@ -186,7 +183,7 @@
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Program.cs",
               "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Program.cs",
               "RelativeToolTip": "SolarSystemApp.Console\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBQAAAAwAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T05:30:35.258Z",
               "EditorCaption": ""
@@ -201,8 +198,7 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAYwD0AAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:27:44.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:27:44.135Z"
             },
             {
               "$type": "Document",
@@ -214,8 +210,7 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
               "ViewState": "AQIAAPAAAAAAAAAAAAAAAM0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:28:18.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:28:18.111Z"
             },
             {
               "$type": "Document",
