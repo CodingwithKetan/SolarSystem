@@ -13,12 +13,14 @@ class Program
 {
     static void Main(string[] args)
     {
+        System.Console.WriteLine("Staring the application");
         var serviceCollection = new ServiceCollection();
         //The ConfigureServices function configures the services.
         ConfigureServices(serviceCollection);
 
         //The RunServiceOperations function executes the code that can create the outputs.
         RunServiceOperations(serviceCollection);
+        System.Console.WriteLine("Finished");
     }
 
     private static void RunServiceOperations(IServiceCollection serviceCollection)
@@ -30,8 +32,8 @@ class Program
 
         try
         {
-            screenOutputService.OutputAllPlanetsAndTheirAverageMoonGravityToConsole();
-            screenOutputService.OutputAllMoonsAndTheirMassToConsole();
+            //screenOutputService.OutputAllPlanetsAndTheirAverageMoonGravityToConsole();
+            //screenOutputService.OutputAllMoonsAndTheirMassToConsole();
             screenOutputService.OutputAllPlanetsAndTheirMoonsToConsole();
         }
         catch (Exception exception)

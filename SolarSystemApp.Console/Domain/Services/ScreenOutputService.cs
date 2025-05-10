@@ -187,5 +187,10 @@ namespace SolarSystemApp.Console.Domain.Services
                 --------------------+--------------------------------------------------
             */
         }
+
+        public void OutputAllThePlanetsWhichHasMoonAndAvgTemToConsole()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

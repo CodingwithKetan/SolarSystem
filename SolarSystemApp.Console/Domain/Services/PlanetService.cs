@@ -58,7 +58,9 @@ namespace SolarSystemApp.Console.Domain.Services
                         var moonResponse = _httpClientService.Client
                             .GetAsync(UriPath.GetMoonByIdQueryParameters + moon.URLId)
                             .Result;
+                        
                         var moonContent = moonResponse.Content.ReadAsStringAsync().Result;
+                        System.Console.WriteLine(moonContent);
                         newMoonsCollection.Add(JsonConvert.DeserializeObject<MoonDto>(moonContent));
                     }
                     planet.Moons = newMoonsCollection;

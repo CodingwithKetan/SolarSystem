@@ -29,3 +29,4 @@ C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\r
 C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\SolarSystemApp.ConsoleApp.pdb
 C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\SolarSystemApp.ConsoleApp.genruntimeconfig.cache
 C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\ref\SolarSystemApp.ConsoleApp.dll
+C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\SolarSystemApp.ConsoleApp.sourcelink.json

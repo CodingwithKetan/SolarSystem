@@ -14,5 +14,6 @@ namespace SolarSystemApp.Console.Domain.Services.Interfaces
         void OutputAllPlanetsAndTheirMoonsToConsole();
         void OutputAllMoonsAndTheirMassToConsole();
         void OutputAllPlanetsAndTheirAverageMoonGravityToConsole();
+        void OutputAllThePlanetsWhichHasMoonAndAvgTemToConsole();
     }
 }
