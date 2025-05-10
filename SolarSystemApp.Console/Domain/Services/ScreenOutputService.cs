@@ -190,7 +190,69 @@ namespace SolarSystemApp.Console.Domain.Services
 
         public void OutputAllThePlanetsWhichHasMoonAndAvgTemToConsole()
         {
-            throw new NotImplementedException();
+            var allPlanets = _planetService.GetAllPlanets().ToArray();
+            var planets = allPlanets.Where(_ => _.HasMoons()).ToArray();
+
+            //If the planets aren't found, then the function stops and tells that to the user via the console.
+            if (!planets.Any())
+            {
+                System.Console.WriteLine(OutputString.NoPlanetsFound);
+                return;
+            }
+
+            var columnSizesForPlanets = new[] { 20, 20, 20 };
+            var columnLabelsForPlanets = new[] { OutputString.PlanetNumber, OutputString.PlanetId, OutputString.TotalMoons };
+
+            var columnSizesForMoons = new[] { 20, 20, 20 };
+            var columnLabelsForMoons = new[]
+            { OutputString.MoonNumber, OutputString.MoonId, OutputString.MoonAverageTemperature
+            };
+
+            for (int i = 0, j = 1; i < planets.Length; i++, j++)
+            {
+                ConsoleWriter.CreateLine(columnSizesForPlanets);
+                ConsoleWriter.CreateText(columnLabelsForPlanets, columnSizesForPlanets);
+                ConsoleWriter.CreateText(
+                    new[]
+                    {
+                j.ToString(),
+                CultureInfoUtility.TextInfo.ToTitleCase(planets[i].Id),
+                planets[i].Moons.Count.ToString()
+                    },
+                    columnSizesForPlanets);
+
+                ConsoleWriter.CreateLine(columnSizesForPlanets);
+                ConsoleWriter.CreateText(columnLabelsForMoons, columnSizesForMoons);
+
+                for (int k = 0, l = 1; k < planets[i].Moons.Count; k++, l++)
+                {
+                    var moon = planets[i].Moons.ElementAt(k);
+                    string avgTempStr = moon.AvgTemp.ToString();
+
+                    ConsoleWriter.CreateText(
+                        new[]
+                        {
+                    l.ToString(),
+                    CultureInfoUtility.TextInfo.ToTitleCase(moon.Id),
+                    avgTempStr
+                        },
+                        columnSizesForMoons);
+                }
+
+                ConsoleWriter.CreateLine(columnSizesForMoons);
+                ConsoleWriter.CreateEmptyLines(2);
+
+                /*
+               This is an example of the output for the planet with moon and it's avg temp:
+               --------------------+--------------------+------------------------------+--------------------
+               Planet's Number     |Planet's Id         |Total Moons
+               10                  |Terre               |1
+               --------------------+--------------------+------------------------------+--------------------
+               Moon's Number       |Moon's Id           |Moon's Avg Temp 
+               1                   |La Lune             | 0 
+               --------------------+------------------------------------------------------------------------
+           */
+            }
         }
     }
 }

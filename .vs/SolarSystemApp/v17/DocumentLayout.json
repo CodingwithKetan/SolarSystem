@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\domain\\services\\screenoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\domain\\services\\screenoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\domain\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\domain\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\domain\\objects\\moon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\domain\\objects\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\domain\\objects\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\domain\\services\\screenoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\domain\\services\\screenoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\domain\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\domain\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\constants\\outputstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\constants\\outputstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\constants\\uripath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\domain\\services\\interfaces\\ioutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\domain\\services\\interfaces\\ioutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\domain\\services\\moonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,10 +114,6 @@
       "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\constants\\httpclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\constants\\outputstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\constants\\outputstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|c:\\users\\ghori\\onedrive\\desktop\\infion\\solarsystemapp.console\\constants\\configurationfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E850F12-60B1-40D5-A3A9-EA5FC22E3645}|SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj|solutionrelative:solarsystemapp.console\\constants\\configurationfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -125,102 +125,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UriPath.cs",
-              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\UriPath.cs",
-              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Constants\\UriPath.cs",
-              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\UriPath.cs",
-              "RelativeToolTip": "SolarSystemApp.Console\\Constants\\UriPath.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowA0AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:16:52.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlanetService.cs",
-              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
-              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
-              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
-              "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAiwBoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:27:44.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ScreenOutputService.cs",
-              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
-              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
-              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
-              "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
-              "ViewState": "AQIAALYAAAAAAAAAAAAqwBsAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:28:18.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPlanetService.cs",
-              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IPlanetService.cs",
-              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IPlanetService.cs",
-              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IPlanetService.cs",
-              "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IPlanetService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAkwA4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:26:16.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MoonDto.cs",
-              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
-              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
-              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
-              "RelativeToolTip": "SolarSystemApp.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAIwB8AAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:21:58.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Planet.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Objects\\Planet.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Objects\\Planet.cs",
               "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Objects\\Planet.cs",
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Objects\\Planet.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T05:23:22.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Moon.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Objects\\Moon.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Objects\\Moon.cs",
               "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Objects\\Moon.cs",
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Objects\\Moon.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAmAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T05:23:57.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IOutputService.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IOutputService.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IOutputService.cs",
@@ -228,25 +163,99 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IOutputService.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAkwBAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:25:45.247Z",
+              "WhenOpened": "2025-05-10T05:25:45.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutputString.cs",
+              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\OutputString.cs",
+              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Constants\\OutputString.cs",
+              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\OutputString.cs",
+              "RelativeToolTip": "SolarSystemApp.Console\\Constants\\OutputString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:16:22.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Program.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Program.cs",
               "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Program.cs",
               "RelativeToolTip": "SolarSystemApp.Console\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAkwCQAAABGAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T05:30:35.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "PlanetService.cs",
+              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
+              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
+              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
+              "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\PlanetService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwD0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:27:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScreenOutputService.cs",
+              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
+              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
+              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
+              "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\ScreenOutputService.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAAM0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:28:18.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoonDto.cs",
+              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "RelativeToolTip": "SolarSystemApp.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwB8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:21:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPlanetService.cs",
+              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IPlanetService.cs",
+              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IPlanetService.cs",
+              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IPlanetService.cs",
+              "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IPlanetService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:26:16.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UriPath.cs",
+              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\UriPath.cs",
+              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Constants\\UriPath.cs",
+              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\UriPath.cs",
+              "RelativeToolTip": "SolarSystemApp.Console\\Constants\\UriPath.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:16:52.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LoggerMessage.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\LoggerMessage.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Constants\\LoggerMessage.cs",
@@ -254,12 +263,11 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Constants\\LoggerMessage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:16:08.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:16:08.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MoonService.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\MoonService.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\MoonService.cs",
@@ -267,12 +275,11 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\MoonService.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwB0AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:27:14.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:27:14.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ConsoleWriter.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Utilities\\ConsoleWriter.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Utilities\\ConsoleWriter.cs",
@@ -280,12 +287,11 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Utilities\\ConsoleWriter.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAYwAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:29:04.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:29:04.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IMoonService.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IMoonService.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IMoonService.cs",
@@ -293,12 +299,11 @@
               "RelativeToolTip": "SolarSystemApp.Console\\Domain\\Services\\Interfaces\\IMoonService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAswAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:25:08.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T05:25:08.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "PathName.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\PathName.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Constants\\PathName.cs",
@@ -310,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SolarSystemApp.ConsoleApp.csproj",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\SolarSystemApp.ConsoleApp.csproj",
@@ -322,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "HttpClientService.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\Services\\HttpClientService.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\Services\\HttpClientService.cs",
@@ -334,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SolarSystemApp.ConsoleApp.GlobalUsings.g.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\obj\\Debug\\net5.0\\SolarSystemApp.ConsoleApp.GlobalUsings.g.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\obj\\Debug\\net5.0\\SolarSystemApp.ConsoleApp.GlobalUsings.g.cs",
@@ -346,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "log4net.config",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\log4net.config",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\log4net.config",
@@ -358,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Utilities\\Logger.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Utilities\\Logger.cs",
@@ -370,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CultureInfoUtility.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Utilities\\CultureInfoUtility.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Utilities\\CultureInfoUtility.cs",
@@ -382,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "JsonResult.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\DataTransferObjects\\JsonObjects\\JsonResult.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\DataTransferObjects\\JsonObjects\\JsonResult.cs",
@@ -394,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SolarSystemApp.Console.GlobalUsings.g.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\obj\\Debug\\net5.0\\SolarSystemApp.Console.GlobalUsings.g.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\obj\\Debug\\net5.0\\SolarSystemApp.Console.GlobalUsings.g.cs",
@@ -406,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "JsonPathConverter.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\DataTransferObjects\\JsonObjects\\JsonPathConverter.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\DataTransferObjects\\JsonObjects\\JsonPathConverter.cs",
@@ -418,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -430,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "PlanetDto.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Domain\\DataTransferObjects\\PlanetDto.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Domain\\DataTransferObjects\\PlanetDto.cs",
@@ -442,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ExceptionMessage.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\ExceptionMessage.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Constants\\ExceptionMessage.cs",
@@ -454,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "HttpClientSettings.cs",
               "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\HttpClientSettings.cs",
               "RelativeDocumentMoniker": "SolarSystemApp.Console\\Constants\\HttpClientSettings.cs",
@@ -463,18 +468,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T05:15:50.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "OutputString.cs",
-              "DocumentMoniker": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\OutputString.cs",
-              "RelativeDocumentMoniker": "SolarSystemApp.Console\\Constants\\OutputString.cs",
-              "ToolTip": "C:\\Users\\ghori\\OneDrive\\Desktop\\Infion\\SolarSystemApp.Console\\Constants\\OutputString.cs",
-              "RelativeToolTip": "SolarSystemApp.Console\\Constants\\OutputString.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:16:22.695Z"
             },
             {
               "$type": "Document",

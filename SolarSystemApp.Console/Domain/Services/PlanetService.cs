@@ -60,7 +60,6 @@ namespace SolarSystemApp.Console.Domain.Services
                             .Result;
                         
                         var moonContent = moonResponse.Content.ReadAsStringAsync().Result;
-                        System.Console.WriteLine(moonContent);
                         newMoonsCollection.Add(JsonConvert.DeserializeObject<MoonDto>(moonContent));
                     }
                     planet.Moons = newMoonsCollection;
