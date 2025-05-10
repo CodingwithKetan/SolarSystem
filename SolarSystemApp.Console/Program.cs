@@ -30,9 +30,14 @@ class Program
 
         try
         {
-            screenOutputService.OutputAllPlanetsAndTheirAverageMoonGravityToConsole();
-            screenOutputService.OutputAllMoonsAndTheirMassToConsole();
-            screenOutputService.OutputAllPlanetsAndTheirMoonsToConsole();
+            /*
+             * If you want to use other functionality then remove comments, 
+             * currently commented/bypass other services because of easy evalution process
+             */
+            //screenOutputService.OutputAllPlanetsAndTheirAverageMoonGravityToConsole();
+            //screenOutputService.OutputAllMoonsAndTheirMassToConsole();
+            //screenOutputService.OutputAllPlanetsAndTheirMoonsToConsole();
+            screenOutputService.OutputAllThePlanetsWhichHasMoonAndAvgTemToConsole();
         }
         catch (Exception exception)
         {

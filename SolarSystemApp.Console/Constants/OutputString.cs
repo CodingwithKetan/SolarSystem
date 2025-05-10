@@ -21,5 +21,6 @@ namespace SolarSystemApp.Console.Constants
         public const string NoPlanetsFound = "No planets found.";
         public const string FileCreated = "The file is created in: ";
         public const string FolderCreated = "The folder is created in: ";
+        public const string MoonAverageTemperature   = "Moon's Avg Temp";
     }
 }
