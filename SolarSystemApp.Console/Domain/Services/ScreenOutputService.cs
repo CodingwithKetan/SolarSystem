@@ -188,10 +188,22 @@ namespace SolarSystemApp.Console.Domain.Services
             */
         }
 
+
+
+
+        /*
+         * [TODO] : Create a separate method which fetch only planets with moon from remote itself
+         * currently for easyness I am using existing method which is not optimized
+         */
         public void OutputAllThePlanetsWhichHasMoonAndAvgTemToConsole()
         {
+            System.Console.WriteLine("Fetching all the planets");
             var allPlanets = _planetService.GetAllPlanets().ToArray();
+            System.Console.WriteLine("Fetched all the planets");
+
+            System.Console.WriteLine("Filtering planets i.e. only consider planets with moons");
             var planets = allPlanets.Where(_ => _.HasMoons()).ToArray();
+            System.Console.WriteLine($"Filtered planets found {planets.Length} with moons");
 
             //If the planets aren't found, then the function stops and tells that to the user via the console.
             if (!planets.Any())
@@ -208,6 +220,7 @@ namespace SolarSystemApp.Console.Domain.Services
             { OutputString.MoonNumber, OutputString.MoonId, OutputString.MoonAverageTemperature
             };
 
+            System.Console.WriteLine("Starting Printing Planets with it's moon Avg Temp.");
             for (int i = 0, j = 1; i < planets.Length; i++, j++)
             {
                 ConsoleWriter.CreateLine(columnSizesForPlanets);
@@ -253,6 +266,7 @@ namespace SolarSystemApp.Console.Domain.Services
                --------------------+------------------------------------------------------------------------
            */
             }
+            System.Console.WriteLine("Printed All the planets with their moon's avg temp");
         }
     }
 }
