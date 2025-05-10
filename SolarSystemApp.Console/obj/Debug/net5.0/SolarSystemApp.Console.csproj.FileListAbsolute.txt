@@ -1,0 +1,5 @@
+C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\SolarSystemApp.Console.csproj.AssemblyReference.cache
+C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\SolarSystemApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\SolarSystemApp.Console.AssemblyInfoInputs.cache
+C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\SolarSystemApp.Console.AssemblyInfo.cs
+C:\Users\ghori\OneDrive\Desktop\Infion\SolarSystemApp.Console\obj\Debug\net5.0\SolarSystemApp.Console.csproj.CoreCompileInputs.cache
