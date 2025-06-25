@@ -1,6 +1,6 @@
 # Solar System App
 
-This application fetches and displays information about planets and their moons, including average moon gravity and temperatures.
+This application fetches and displays information about planets and their moons, including average moon gravity and temperatures. Test
 
 ##Current Implementation
 
