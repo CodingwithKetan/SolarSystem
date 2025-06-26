@@ -14,7 +14,7 @@ This application fetches and displays information about planets and their moons,
 
 ## Known Issues
 
-- The **average temperature** of all moons is being returned as `0` from the backend.
+- The **average temperature** of all moons is being returned as `0` from the backend so that i need to cheCK.
   - This likely requires a **server-side fix or validation of source data**.
 
 ## Planned Improvements
